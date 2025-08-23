@@ -2,8 +2,6 @@
 /**
  * WordPress MCP Adapter - Main entry point for MCP server functionality.
  *
- * This class provides a simplified interface for creating and managing MCP servers
- * with sensible defaults, while allowing for customization when needed.
  *
  * @package McpAdapterRegistry
  */
